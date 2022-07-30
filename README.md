@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and applying it on Radioastronomy data reduction
 - 💞️ I’m looking to collaborate on Python development for Data Science
-- 📫 How to reach me: [l](https://www.linkedin.com/in/astromyrna/)
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/astromyrna/)
 
 <!---
 myrnayk/myrnayk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
